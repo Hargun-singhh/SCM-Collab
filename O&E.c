@@ -7,11 +7,11 @@ int main() {
 
     switch (number % 2) {
         case 0:
-            printf("%d is an even number.\n", number);
+            printf("%d EVEN\n", number);
             break;
         case 1:
         case -1:
-            printf("%d is an odd number.\n", number);
+            printf("%d ODD\n", number);
             break;
         default:
             printf("Invalid input.\n");
