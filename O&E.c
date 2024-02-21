@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main() {
     int number;
-
     printf("Enter an Number: ");
     scanf("%d", &number);
 
@@ -18,4 +17,4 @@ int main() {
     }
 
     return 0;
-}
+}ksejfj
