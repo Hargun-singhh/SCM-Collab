@@ -1,11 +1,12 @@
 #include <stdio.h>
 int main() {
-<<<<<<< HEAD
     int number;
-=======
+    int number;
+    printf("Kashvi is here!");
+ 
     int num;
 
->>>>>>> 50c676df039e6647cd799ea282b26d9e9b4883cb
+ 
     printf("Enter an Number: ");
     scanf("%d", &num);
 
@@ -22,4 +23,4 @@ int main() {
     }
 
     return 0;
-}ksejfj   
+} 
